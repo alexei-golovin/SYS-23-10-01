@@ -44,6 +44,10 @@
 
 ### Ответ на задание 1
 
+![](https://github.com/alexei-golovin/SYS-23-10-01/blob/main/files/10-1.jpg)
+
+https://github.com/alexei-golovin/SYS-23-10-01/blob/main/files/SYS-23_AG_10.1.pkt
+
 ------
 
 
