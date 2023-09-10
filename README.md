@@ -60,6 +60,7 @@ https://github.com/alexei-golovin/SYS-23-10-01/blob/main/files/SYS-23_AG_10.1.pk
 
 ### Ответ на задание 2
 
+
 ------
 
 ## Дополнительные задания со звёздочкой*
