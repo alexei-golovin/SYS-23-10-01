@@ -60,6 +60,11 @@ https://github.com/alexei-golovin/SYS-23-10-01/blob/main/files/SYS-23_AG_10.1.pk
 
 ### Ответ на задание 2
 
+![](https://github.com/alexei-golovin/SYS-23-10-01/blob/main/files/102.jpg)
+![](https://github.com/alexei-golovin/SYS-23-10-01/blob/main/files/103.jpg)
+
+https://github.com/alexei-golovin/SYS-23-10-01/blob/main/files/sh.txt
+https://github.com/alexei-golovin/SYS-23-10-01/blob/main/files/conf.txt
 
 ------
 
